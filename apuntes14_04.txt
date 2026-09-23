@@ -1,0 +1,10 @@
+Un tensor es una matriz que es diferencuable y que son operaciones lineales.
+
+Lo que quiero es representar la conversion de un indices a un tensor: OneHotEncoduing y una matriz
+Así es  -> fila x columna ==> tengo cada uno de los elementos de una matriz: como tener un diccionario
+Tengo así un diccionario diferenciable: PyTorch ya nos lo fa hecho.
+
+Qué necesito para un Transformer?
+Mecanismo de Atención.
+Creamos una "class Attention".
+Vamos a crearlo todos juntos
